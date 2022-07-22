@@ -1,4 +1,4 @@
-git clone https://github.com/DANNY1E/DANNY-404
+git clone https://github.com/D4NNHACK/DANNY-404
 
 cd DANNY-404
 
